@@ -62,13 +62,13 @@ footer {
 
   #komendanci,
   #pierwsze_jednostki, #zamkniete_jednosktki{
-    width: 400px;
-    margin-left: 5%;
+    width: 300px;
+   /*margin-left: 5%; */ 
     margin-right: 5%;
   }
   #istniejace_jednostki{
-    margin-left: 5%;  
-    width: 400px;
+    /*margin-left: 5%; */ 
+    width: 300px;
   }
 }
 
