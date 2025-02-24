@@ -1,0 +1,24 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "question": "pytanie 1",
+      "answer": "odpowiedź"
+    },
+    {
+      "id": 2,
+      "question": "What is 5 + 7?",
+      "answer": "2"
+    },
+    {
+      "id": 3,
+      "question": "What is the chemical symbol for gold?",
+      "answer": "Au"
+    },
+    {
+      "id": 4,
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "answer": "Jane Austen"
+    }
+  ]
+}

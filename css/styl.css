@@ -10,7 +10,7 @@ button {
   width: 30%;
   font-size: 32px;
   border: 1px solid #333;
-  background-color: #3A7355; /* Slightly lighter for better contrast */
+  background-color: #3A7355;
   color: white;
   border-radius: 10px;
 }
@@ -34,7 +34,7 @@ h1, h2 {
   border: 5px solid whitesmoke; /* Fixed border syntax */
   float: left;
 }
-#istniejace_jednostki{
+.istniejace_jednostki{
   margin-left: 30%;
   width: 40%;
   border: 5px solid whitesmoke;;
@@ -46,11 +46,21 @@ h1, h2 {
   width: 20%;
   border: 5px solid whitesmoke; /* Fixed border syntax */
   float: left;
+  margin-bottom: 20px;
 }
 footer {
   clear: both;
   margin-left: 40%;
   padding-top: 30px;
+}
+#historia{
+
+  position: absolute;
+  left: 25%;
+  top: 40%;
+}
+#historia button{
+  width: 30%;
 }
 
 @media (max-width: 768px) {
