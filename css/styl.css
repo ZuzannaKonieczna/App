@@ -56,11 +56,11 @@ footer {
 #historia{
 
   position: absolute;
-  left: 25%;
-  top: 40%;
+  left: 22%;
+  top: 30%;
 }
 #historia button{
-  width: 30%;
+  width: 40%;
 }
 
 @media (max-width: 768px) {
