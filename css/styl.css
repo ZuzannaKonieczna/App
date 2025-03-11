@@ -62,7 +62,22 @@ footer {
 #historia button{
   width: 38%;
 }
-
+.postacie{
+  text-align: center;
+  width: 20%;
+  float:left;
+  border: 5px solid whitesmoke;
+}
+#Robert{
+  position: relative;
+  left: 15%;
+  top:30%;
+}
+#Olave{
+  position: relative;
+  left: 20%;
+  top:30%;
+}
 @media (max-width: 768px) {
   button {
     width: 50%;
